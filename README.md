@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CarthikYes/Images/main/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/CarthikYes/Images/main/greeting.gif" align="center" style="width: 100%" />
 </div>  
   
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/CarthikYes/Images/main/Coding_java.gif" align="center" height="" width="" />
+<img src="https://raw.githubusercontent.com/CarthikYes/Images/main/Coding_java.gif" align="center" style="width: 100%" />
 </div>  
   
 
