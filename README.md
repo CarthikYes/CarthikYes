@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CarthikYes/Images/main/greet.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -18,6 +18,11 @@
   
 
 - **🏃 Ready to HELP CODE DEVELOP SOLVE**  
+
+
+- <a href="https://drive.google.com/file/d/1ELuqpF7EhDyl5Lb6Wtlb5s3tAelj2e42/view?usp=share_link" target="_blank">
+<img src=https://raw.githubusercontent.com/CarthikYes/Images/main/resume.png alt=resume style="margin-bottom: 5px;" />
+</a>
   
 
 <br/>  
