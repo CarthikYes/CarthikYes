@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" style="height:50%"/>
 </div>
 
-<h1 align="center">Hi, I'm Karthik S 👨‍💻</h1>
+<h1 align="center">Hello, I'm Karthik S 👨‍💻</h1>
 
 <p align="center">
   <b>⚡ Learning Java(Backend) at <a href="https://www.masaischool.com/">Masai</a></b><br>
